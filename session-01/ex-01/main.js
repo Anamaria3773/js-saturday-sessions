@@ -14,3 +14,9 @@ let prevNr = inputNr - 1;
 let nextNr = inputNr + 1;
 
 alert(prevNr + ', ' + inputNr + ', ' + nextNr);
+
+alert('The opposite of ' + inputNr + ' is: ' + inputNr);
+
+alert(`The remainder of ${inputNr} divided by 2 is: ${inputNr % 2}`);
+
+alert(`2 the power of ${inputNr} equals: ${2**inputNr}`);
